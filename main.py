@@ -1,4 +1,5 @@
-from loja import Loja
+from loja import *
+from produto import *
 import os
 
 def limpar_tela():
